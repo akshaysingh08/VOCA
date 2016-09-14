@@ -1,0 +1,103 @@
+>>> dictionary()
+Enter the number of words you want to enter:2
+Enter the word and meaning as:  WORD , MEANING
+aback,surprised
+Enter the word and meaning as:  WORD , MEANING
+abduct,kidnap
+{'ABACK': 'SURPRISED', 'ABASH': 'EMBARRASSED', 'ABDUCT': 'KIDNAP'}
+>>> listwords()
+Enter which words meaning you want:
+all
+WORDS	 MEANING
+ABACK	 SURPRISED
+ABASH	 EMBARRASSED
+ABDUCT	 KIDNAP
+>>> dictionary()
+Enter the number of words you want to enter:1
+Enter the word and meaning as:  WORD , MEANING
+abjure,renounce repudiate
+{'ABJURE': 'RENOUNCE REPUDIATE', 'ABACK': 'SURPRISED', 'ABASH': 'EMBARRASSED', 'ABDUCT': 'KIDNAP'}
+>>> listwords()
+Enter which words meaning you want:
+all
+WORDS	 MEANING
+ABACK	 SURPRISED
+ABASH	 EMBARRASSED
+ABDUCT	 KIDNAP
+ABJURE	 RENOUNCE REPUDIATE
+>>> dictionary()
+Enter the number of words you want to enter:1
+Enter the word and meaning as:  WORD , MEANING
+ablaze,blazing
+{'ABJURE': 'RENOUNCE REPUDIATE', 'ABASH': 'EMBARRASSED', 'ABACK': 'SURPRISED', 'ABDUCT': 'KIDNAP', 'ABLAZE': 'BLAZING'}
+>>> listwords()
+Enter which words meaning you want:
+all
+WORDS	 MEANING
+ABACK	 SURPRISED
+ABASH	 EMBARRASSED
+ABDUCT	 KIDNAP
+ABJURE	 RENOUNCE REPUDIATE
+ABLAZE	 BLAZING
+>>> dictionary()
+Enter the number of words you want to enter:2
+Enter the word and meaning as:  WORD , MEANING
+bout,a period of exercise
+Enter the word and meaning as:  WORD , MEANING
+boulevard,wide street
+{'ABJURE': 'RENOUNCE REPUDIATE', 'BOULEVARD': 'WIDE STREET', 'ABASH': 'EMBARRASSED', 'ABACK': 'SURPRISED', 'ABDUCT': 'KIDNAP', 'ABLAZE': 'BLAZING', 'BOUT': 'A PERIOD OF EXERCISE'}
+>>> listwords()
+Enter which words meaning you want:
+all
+WORDS	 MEANING
+ABACK	 SURPRISED
+ABASH	 EMBARRASSED
+ABDUCT	 KIDNAP
+ABJURE	 RENOUNCE REPUDIATE
+ABLAZE	 BLAZING
+BOULEVARD	 WIDE STREET
+BOUT	 A PERIOD OF EXERCISE
+>>> listwords()
+Enter which words meaning you want:
+a
+WORDS	 MEANING
+ABACK	 SURPRISED
+ABASH	 EMBARRASSED
+ABDUCT	 KIDNAP
+ABJURE	 RENOUNCE REPUDIATE
+ABLAZE	 BLAZING
+>>> listwords()
+Enter which words meaning you want:
+b
+WORDS	 MEANING
+BOULEVARD	 WIDE STREET
+BOUT	 A PERIOD OF EXERCISE
+>>> listwords()
+Enter which words meaning you want:
+ab
+WORDS	 MEANING
+ABACK	 SURPRISED
+ABASH	 EMBARRASSED
+ABDUCT	 KIDNAP
+ABJURE	 RENOUNCE REPUDIATE
+ABLAZE	 BLAZING
+>>> listwords()
+Enter which words meaning you want:
+abl
+WORDS	 MEANING
+ABLAZE	 BLAZING
+>>> 
+
+>>> dictionary()
+Enter the number of words you want to enter:1
+Enter the word and meaning as:  WORD , MEANING
+bewilder,puzzle confuse
+{'BEWILDER': 'PUZZLE CONFUSE', 'ABJURE': 'RENOUNCE REPUDIATE', 'BOULEVARD': 'WIDE STREET', 'ABASH': 'EMBARRASSED', 'ABACK': 'SURPRISED', 'ABLAZE': 'BLAZING', 'BOUT': 'A PERIOD OF EXERCISE', 'ABDUCT': 'KIDNAP'}
+>>> listwords()
+Enter which words meaning you want:
+b
+WORDS	 MEANING
+BEWILDER	 PUZZLE CONFUSE
+BOULEVARD	 WIDE STREET
+BOUT	 A PERIOD OF EXERCISE
+>>> 
